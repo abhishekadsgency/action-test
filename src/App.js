@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import BasicComponent from './components/BasicComponent';
+import BasicComponent from './components/BasicComp';
 function App() {
   return (
     <div>
